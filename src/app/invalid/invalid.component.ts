@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-invalid',
   template: `
     <h2>
-      Sorry, Invalid route....!!!!
+      Sorry, url is not found , Invalid url....!!!!
     </h2>
   `,
   styles: [
